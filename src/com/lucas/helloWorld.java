@@ -1,4 +1,4 @@
-package lucas.com;
+package com.lucas;
 
 public class helloWorld {
 	

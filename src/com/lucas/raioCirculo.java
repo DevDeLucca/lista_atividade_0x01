@@ -1,4 +1,4 @@
-package lucas.com;
+package com.lucas;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package lucas.com;
+package com.lucas;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class entradaDados {
 			
 			int numero = scan.nextInt();
 			
-			System.out.println("Seu nome é : " + numero );
+			System.out.println("Seu nome ï¿½ : " + numero );
 			
 		}
 	
@@ -28,7 +28,7 @@ try (Scanner scan = new Scanner(System.in)) {
     int idade = scan.nextInt();
     boolean possueFilhos = scan.nextBoolean();
     
-    System.out.println("Seu primeiro nome é: " + primeiroNome);
-    System.out.println("Seu segundo nome  é: " + segundoNome);
-    System.out.println("Seua idade é: " + idade);
+    System.out.println("Seu primeiro nome ï¿½: " + primeiroNome);
+    System.out.println("Seu segundo nome  ï¿½: " + segundoNome);
+    System.out.println("Seua idade ï¿½: " + idade);
     System.out.println("Filhos: " + possueFilhos);*/

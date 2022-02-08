@@ -1,4 +1,4 @@
-package lucas.com;
+package com.lucas;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ public class areaDobradaQuadrado {
 			double valorDobrado = areaQuadrado * 4;
 			
 			
-			System.out.println("O valor dobrado da area é: " + valorDobrado);
+			System.out.println("O valor dobrado da area : " + valorDobrado);
 		}
 
 	}
